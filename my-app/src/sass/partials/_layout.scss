@@ -1,0 +1,32 @@
+body {
+    font-family: $primary-font;
+    font-weight: 400;
+    background-color: $background-color;
+    margin: 0;
+}
+
+.container {
+    min-height: 90vh;
+    max-width: 90%;
+    width: 325px;
+    margin: 0 auto;
+}
+
+.card {
+    background-color: white;
+    border-radius: 10px;
+    height: 355px;
+}
+
+.card__text {
+    padding: 10px 20px;
+}
+
+footer {
+    display: flex;
+    justify-content: space-between;
+    font-size: 13px;
+    color: $white;
+    background-color: $primary;
+    padding: 0px 10px;
+}

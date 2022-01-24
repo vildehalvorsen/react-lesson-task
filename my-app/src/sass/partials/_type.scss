@@ -1,0 +1,25 @@
+h1 {
+    font-size: 40px;
+    color: $primary;
+    margin-bottom: 0;
+}
+
+h2 {
+    font-size: 22px;
+    color: $secondary;
+    margin-top: 0;
+}
+
+h3 {
+    font-size: 24px;
+    color: $white;
+    background-color: $secondary;
+    border-radius: 10px 10px 0px 0px;
+    padding: 10px;
+}
+
+p {
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 21pt;
+}
